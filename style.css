@@ -1,0 +1,83 @@
+body{
+  font: 20px arial, sans-serif;
+}
+
+.navbar{
+  background-color:white;
+}
+
+.nav-link{
+  font-family: Verdana, Arial;
+}
+
+.quem-somos{
+  background-color:black;
+  color: white;
+}
+
+.margin{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.title-quemsomos{
+  font-weight: bold;
+  padding-bottom: 15px;
+  font-size: 50px;
+  color: yellow;
+  font-style:italic;
+}
+
+.container_quemsomos{
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+
+.h1-quemsomos{
+  font-style: italic;
+  color: yellow;
+}
+
+.title-parceiros{
+  font-style: italic;
+  font-weight: bold;
+  padding-bottom: 0px;
+  font-size: 40px;
+}
+
+.img-3m{
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+
+.img-deltaplus{
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.img-carpro{
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+.servicos{
+  background-color: rgb(58, 58, 58);
+  
+}
+
+.title-servicos{
+  font-style: italic;
+  font-weight: bold;
+  padding-bottom: 15px;
+  font-size: 40px;
+  color:yellow;
+}
+
+.text-servicos{
+  color:yellow;
+}
+
+.bg-footer{
+  background-color: black;
+  color: white;
+}
